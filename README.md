@@ -1,5 +1,11 @@
 # 💫 About Me:
- Python Developer and Big Data Engineer currently pursuing a Bachelor of Technology at Anurag University, specializing in Machine Learning and Full-Stack Development. With expertise in Python web development, big data processing, and AI/ML, he has worked on projects involving Flask, Bootstrap, and Apache Spark.<br><br>Kaushik has built web applications, dashboards, and data-driven solutions and is continuously expanding his skills in Django, Apache Spark, and cloud technologies. Passionate about solving complex problems, he is also available for freelance work and is actively building his portfolio.<br><br>🔗 Website: www.kaushikreddy.tech<br>📍 Location: Hyderabad, India
+I am a Python Developer and Big Data Engineer, currently pursuing a Bachelor of Technology at Anurag University, specializing in Machine Learning and Full-Stack Development. With expertise in Python web development, big data processing, and AI/ML, I have worked on projects involving Flask, Bootstrap, and Apache Spark.
+
+I have built web applications, dashboards, and data-driven solutions and am continuously expanding my skills in Django, Apache Spark, and cloud technologies. Passionate about solving complex problems, I am also available for freelance work and actively building my portfolio.
+
+🔗 Website: www.kaushikreddy.tech
+📍 Location: Hyderabad, India
+
 
 
 ## 🌐 Socials:
