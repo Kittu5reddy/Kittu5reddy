@@ -1,6 +1,10 @@
 # 💫 About Me:
-a Python Developer and Big Data Engineer based in Hyderabad, India. He holds a BTech degree and has also completed an AI/ML degree. Currently, he is pursuing a Bachelor of Technology at Anurag University, specializing in big data engineering and full-stack development. With expertise in Python web development, he has worked on projects like a dashboard app for plots and digital marketing using Flask and Bootstrap. He is also exploring Apache Spark and aims to master Django for professional development
+ Python Developer and Big Data Engineer currently pursuing a Bachelor of Technology at Anurag University, specializing in Machine Learning and Full-Stack Development. With expertise in Python web development, big data processing, and AI/ML, he has worked on projects involving Flask, Bootstrap, and Apache Spark.
 
+Kaushik has built web applications, dashboards, and data-driven solutions and is continuously expanding his skills in Django, Apache Spark, and cloud technologies. Passionate about solving complex problems, he is also available for freelance work and is actively building his portfolio.
+
+🔗 Website: www.kaushikreddy.tech
+📍 Location: Hyderabad, India
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kittu_5reddy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/palvai-kaushik-reddy-60b2a5271/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikpalvai2004@gmail.com) 
