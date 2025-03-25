@@ -1,10 +1,10 @@
 # 💫 About Me:
- I'm a Python Developer and Big Data Engineer currently pursuing my Bachelor of Technology at Anurag University, specializing in Machine Learning and Full-Stack Development. I have a strong focus on Python web development, big data processing, and AI/ML. Throughout my journey, I've worked on various projects involving Flask, Bootstrap, and Apache Spark.
+I'm a Python Developer currently pursuing my Bachelor of Technology at Anurag University, specializing in Machine Learning and Full-Stack Development. I have a strong focus on Python web development and AI/ML. Throughout my journey, I've worked on various projects involving Flask, Bootstrap, and cloud technologies.
 
-I've built web applications, dashboards, and data-driven solutions, and I'm continuously expanding my skills in Django, Apache Spark, and cloud technologies. I'm passionate about solving complex problems and always looking to learn and grow in the tech space. I'm also open to freelance opportunities and actively working on building my portfolio.
+I've built web applications, dashboards, and data-driven solutions, and I'm continuously expanding my skills in Django, cloud computing, and AI. I'm passionate about solving complex problems and always looking to learn and grow in the tech space. I'm also open to freelance opportunities and actively working on building my portfolio.
 
-
-.<br><br>🔗 Website: www.kaushikreddy.tech<br>📍 Location: Hyderabad, India
+.<br><br>🔗 Website: www.kaushikreddy.tech
+📍 Location: Hyderabad, India
 
 
 ## 🌐 Socials:
