@@ -3,7 +3,7 @@ I'm a Python Developer currently pursuing my Bachelor of Technology at Anurag Un
 
 I've built web applications, dashboards, and data-driven solutions, and I'm continuously expanding my skills in Django, cloud computing, and AI. I'm passionate about solving complex problems and always looking to learn and grow in the tech space. I'm also open to freelance opportunities and actively working on building my portfolio.
 
-.<br><br>🔗 Website: www.kaushikreddy.tech
+<br><br>🔗 Website: www.kaushikreddy.tech
 📍 Location: Hyderabad, India
 
 
