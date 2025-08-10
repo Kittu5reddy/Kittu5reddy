@@ -8,7 +8,7 @@ Driven by curiosity and problem-solving, I actively contribute to real-world pro
 
  I'm also open to freelance opportunities and actively working on building my portfolio.
 
-<br><br>🔗 Website: www.kaushikreddy.tech
+<br><br>🔗 Website: www.kaushik-reddy.tech
 📍 Location: Hyderabad, India
 
 
