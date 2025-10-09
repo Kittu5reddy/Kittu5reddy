@@ -62,7 +62,6 @@ Driven by curiosity and innovation, I actively contribute to real-world projects
 # 🏆 Achievements:
 - 🥇 **Government Incubation Grant Winner (₹30,000)** for *Smart Bin Classifier* — an AI-powered waste classification system using VGG16 & YOLO.  
 - 🎯 **Vice Chair, Enigma Technical Club** — led initiatives, workshops, and mentorship programs in AI, ML, and Data Science.  
-- 💡 **Built MyPropCare**, a full-stack property management system using FastAPI, React, PostgreSQL, AWS S3, and Nginx — scalable and production-ready.  
 - 🤝 **Mentor & Guide** to junior developers in **Python**, **Web Development**, and **Machine Learning**.  
 - 📚 **Smart Interviews - Smart Coders Program** (In Progress) — sharpening DSA and competitive programming skills.  
 - 🌐 **Zscaler ZTCD (Zero Trust Certified Deployment)** — Certified in Zero Trust Cloud Deployments.  
