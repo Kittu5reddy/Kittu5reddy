@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a **Software Developer** and **B.Tech Artificial Intelligence & Machine Learning** student at **Anurag University** with a strong foundation in **software development, and cloud-based systems**.  
+I’m a **Python Developer** and **B.Tech Artificial Intelligence & Machine Learning** student at **Anurag University** with a strong foundation in **software development, data engineering, and cloud-based systems**.  
 
 I specialize in building **full-stack web applications** and **scalable data solutions** using **Python, FastAPI, Flask, and ReactJS**, with efficient backend integrations across **PostgreSQL, MongoDB, and Redis**.  
 
@@ -56,6 +56,16 @@ Driven by curiosity and innovation, I actively contribute to real-world projects
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+# 🏆 Achievements:
+- 🥇 **Government Incubation Grant Winner (₹30,000)** for *Smart Bin Classifier* — an AI-powered waste classification system using VGG16 & YOLO.  
+- 🎯 **Vice Chair, Enigma Technical Club** — led initiatives, workshops, and mentorship programs in AI, ML, and Data Science.  
+- 💡 **Built MyPropCare**, a full-stack property management system using FastAPI, React, PostgreSQL, AWS S3, and Nginx — scalable and production-ready.  
+- 🤝 **Mentor & Guide** to junior developers in **Python**, **Web Development**, and **Machine Learning**.  
+- 📚 **Smart Interviews - Smart Coders Program** (In Progress) — sharpening DSA and competitive programming skills.  
+- 🌐 **Zscaler ZTCD (Zero Trust Certified Deployment)** — Certified in Zero Trust Cloud Deployments.  
 
 ---
 
