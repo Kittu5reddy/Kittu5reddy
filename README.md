@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a **Software Developer** and **B.Tech Artificial Intelligence & Machine Learning** student at **Anurag University** with a strong foundation in **software development, data engineering, and cloud-based systems**.  
+I’m a **Software Developer** and **B.Tech Artificial Intelligence & Machine Learning** student at **Anurag University** with a strong foundation in **software development, and cloud-based systems**.  
 
 I specialize in building **full-stack web applications** and **scalable data solutions** using **Python, FastAPI, Flask, and ReactJS**, with efficient backend integrations across **PostgreSQL, MongoDB, and Redis**.  
 
