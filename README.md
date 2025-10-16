@@ -60,7 +60,7 @@ Driven by curiosity and innovation, I actively contribute to real-world projects
 ---
 
 # 🏆 Achievements:
-- 🥇 **Government Incubation Grant Winner (₹30,000)** for *Smart Bin Classifier* — an AI-powered waste classification system using VGG16 & YOLO.  
+- 🥇 **Hive Incubation Grant Winner (₹30,000)** for *Smart Bin Classifier* — an AI-powered waste classification system using VGG16 & YOLO.  
 - 🎯 **Vice Chair, Enigma Technical Club** — led initiatives, workshops, and mentorship programs in AI, ML, and Data Science.  
 - 🤝 **Mentor & Guide** to junior developers in **Python**, **Web Development**, and **Machine Learning**.  
 - 📚 **Smart Interviews - Smart Coders Program** (In Progress) — sharpening DSA and competitive programming skills.  
